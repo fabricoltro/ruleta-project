@@ -1,0 +1,1 @@
+delete from ruleta.opciones_cuatro_numeros;
